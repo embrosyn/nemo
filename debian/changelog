@@ -315,6 +315,12 @@ nemo (4.0.0) tessa; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Thu, 01 Nov 2018 13:29:54 +0000
 
+nemo (3.8.6-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Fri, 21 Sep 2018 18:34:37 +0200
+
 nemo (3.8.5) tara; urgency=medium
 
   [ Michael Webster ]
