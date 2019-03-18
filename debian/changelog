@@ -147,6 +147,12 @@ nemo (4.2.0) tina; urgency=medium
 
  -- Clement Lefebvre <root@linuxmint.com>  Sun, 23 Jun 2019 17:20:47 +0200
 
+nemo (4.0.6-1~ubuntuReleaseName0) ubuntuReleaseName; urgency=medium
+
+  * New upstream release
+
+ -- embrosyn <embrosyn@netc.eu>  Mon, 18 Mar 2019 01:03:37 +0100
+
 nemo (4.0.6) tessa; urgency=medium
 
   [ Clement Lefebvre ]
